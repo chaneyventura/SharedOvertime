@@ -18,5 +18,5 @@
 - Bootstrap -> formatting
 
 ## Refactor TODOS:
-- Add full_name method for users
+- Refactor posts/_form for admin user with status
 - Refactor user association integration test in post_spec
