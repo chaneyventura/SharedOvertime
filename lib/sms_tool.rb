@@ -13,4 +13,3 @@ module SmsTool
 	end
 end
 
-SmsTool.send_sms(number: '3852360374', message: "Hello look at me.")
